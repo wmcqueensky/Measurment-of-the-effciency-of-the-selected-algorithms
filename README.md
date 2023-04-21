@@ -1,6 +1,6 @@
 <h1>Program for measuring the efficiency of sorting algorithms</h1>
 
-<p>This is a program that measures the efficiency of different sorting algorithms: bubble sort, quick sort, insertion sort, and merge sort.</p>
+<p>This is a program that measures the efficiency of different sorting algorithms: bubble sort, quick sort, insertion sort</p>
 
 <h2>Prerequisites</h2>
 
